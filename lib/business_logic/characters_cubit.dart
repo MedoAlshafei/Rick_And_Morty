@@ -1,5 +1,5 @@
-import 'package:bloc_app/data/models/character.dart';
-import 'package:bloc_app/data/repositories/characters_repository.dart';
+import 'package:rick_and_morty/data/models/character.dart';
+import 'package:rick_and_morty/data/repositories/characters_repository.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:meta/meta.dart';
 

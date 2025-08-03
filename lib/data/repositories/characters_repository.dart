@@ -1,5 +1,5 @@
-import 'package:bloc_app/data/models/character.dart';
-import 'package:bloc_app/data/web_services/characters_web_services.dart';
+import 'package:rick_and_morty/data/models/character.dart';
+import 'package:rick_and_morty/data/web_services/characters_web_services.dart';
 
 class CharactersRepository {
   CharactersRepository(this.charactersWebServices);

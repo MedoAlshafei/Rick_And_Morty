@@ -1,6 +1,6 @@
-import 'package:bloc_app/constants/colors.dart';
-import 'package:bloc_app/constants/strings.dart';
-import 'package:bloc_app/data/models/character.dart';
+import 'package:rick_and_morty/constants/colors.dart';
+import 'package:rick_and_morty/constants/strings.dart';
+import 'package:rick_and_morty/data/models/character.dart';
 import 'package:flutter/material.dart';
 
 class CharacterItem extends StatelessWidget {

@@ -1,4 +1,4 @@
-import 'package:bloc_app/constants/strings.dart';
+import 'package:rick_and_morty/constants/strings.dart';
 import 'package:dio/dio.dart';
 
 class CharactersWebServices {
